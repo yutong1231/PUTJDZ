@@ -1,0 +1,2 @@
+python train_net.py --config_file configs/put_cvpr2022/JDG/pvqvae_JDG.yaml --gpu 0 --tensorboard
+python train_net.py --config_file configs/put_cvpr2022/JDG/pvqvae_JDG_mask_paired.yaml --gpu 1 --tensorboard
